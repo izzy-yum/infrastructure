@@ -4,7 +4,7 @@ Track recipe coverage across all protein and cuisine combinations.
 
 **Goal:** At least one recipe in every cell
 
-**Status:** 10 of 80 cells filled (12.5% complete) | 7 recipes fully complete ✅
+**Status:** 13 of 80 cells filled (16.25% complete) | 13 recipes fully complete ✅
 
 ---
 
@@ -12,13 +12,13 @@ Track recipe coverage across all protein and cuisine combinations.
 
 | Protein | American | Chinese | Indian | Italian | Japanese | Korean | Mediterranean | Mexican | Thai | Vietnamese |
 |---------|----------|---------|--------|---------|----------|--------|---------------|---------|------|------------|
-| **Beef** | | | | | | Korean Beef Bowl | | Beef Tacos ✅ | | |
-| **Chicken** | | | | Chicken Parmesan ✅ | Japanese Chicken Teriyaki | | | | Chicken Pad Thai ✅ | |
+| **Beef** | Gluten-Free Meatloaf ✅ | | | | | Korean Beef Bowl ✅ | | Beef Tacos ✅ | Thai Beef Lettuce Wraps ✅ | |
+| **Chicken** | | | | Chicken Parmesan ✅ | Japanese Chicken Teriyaki ✅ | | | | Chicken Pad Thai ✅ | |
 | **Eggs** | | | | | | | | | | |
-| **Lamb** | | | | | | | Mediterranean Lamb Kebabs | | | |
+| **Lamb** | | | | | | | Mediterranean Lamb Kebabs ✅ | | | |
 | **Pork** | | | | | | | | | | |
 | **Salmon** | | | | | | | Mediterranean Grilled Salmon ✅ | | | |
-| **Shrimp** | | | | Shrimp Scampi ✅ | | | | | Green Curry Shrimp ✅ | |
+| **Shrimp** | | | | Shrimp Scampi ✅ | | | | Shrimp Fajita Bowls ✅ | Green Curry Shrimp ✅ | |
 | **Tofu** | | Tofu Stir Fry ✅ | | | | | | | | |
 
 **Legend:**
@@ -32,45 +32,47 @@ Track recipe coverage across all protein and cuisine combinations.
 
 **Overall Progress:**
 - Total combinations: 80 (8 proteins × 10 cuisines)
-- Recipes in database: 10 (12.5%)
-- Fully complete recipes: 7 ✅ (8.75%)
-- Incomplete recipes: 3 (3.75%)
+- Recipes in database: 13 (16.25%)
+- Fully complete recipes: 13 ✅ (16.25%)
+- Incomplete recipes: 0 🎉
 
 **By Protein:**
-- Beef: 2/10 cuisines (20%) — 1 complete ✅, 1 incomplete
-- Chicken: 3/10 cuisines (30%) — 2 complete ✅, 1 incomplete
+- Beef: 4/10 cuisines (40%) — 4 complete ✅
+- Chicken: 3/10 cuisines (30%) — 3 complete ✅
 - Eggs: 0/10 cuisines (0%) ❌
-- Lamb: 1/10 cuisines (10%) — 0 complete, 1 incomplete
+- Lamb: 1/10 cuisines (10%) — 1 complete ✅
 - Pork: 0/10 cuisines (0%) ❌
 - Salmon: 1/10 cuisines (10%) — 1 complete ✅
-- Shrimp: 2/10 cuisines (20%) — 2 complete ✅
+- Shrimp: 3/10 cuisines (30%) — 3 complete ✅
 - Tofu: 1/10 cuisines (10%) — 1 complete ✅
 
 **By Cuisine:**
-- American: 0/8 proteins (0%) ❌
+- American: 1/8 proteins (12.5%) — 1 complete ✅
 - Chinese: 1/8 proteins (12.5%) — 1 complete ✅
 - Indian: 0/8 proteins (0%) ❌
 - Italian: 2/8 proteins (25%) — 2 complete ✅
-- Japanese: 1/8 proteins (12.5%) — 0 complete, 1 incomplete
-- Korean: 1/8 proteins (12.5%) — 0 complete, 1 incomplete
-- Mediterranean: 2/8 proteins (25%) — 1 complete ✅, 1 incomplete
-- Mexican: 1/8 proteins (12.5%) — 1 complete ✅
-- Thai: 2/8 proteins (25%) — 2 complete ✅
+- Japanese: 1/8 proteins (12.5%) — 1 complete ✅
+- Korean: 1/8 proteins (12.5%) — 1 complete ✅
+- Mediterranean: 2/8 proteins (25%) — 2 complete ✅
+- Mexican: 2/8 proteins (25%) — 2 complete ✅
+- Thai: 3/8 proteins (37.5%) — 3 complete ✅
 - Vietnamese: 0/8 proteins (0%) ❌
 
 ---
 
 ## Priority Tasks
 
-### Immediate: Complete Existing Recipes (3 recipes)
+### Recent Additions ✅
 
-These recipes exist in the database but lack equipment, ingredients, and instructions:
+**Completed since last update:**
+- ✅ Japanese Chicken Teriyaki (Chicken + Japanese)
+- ✅ Korean Beef Bowl (Beef + Korean)
+- ✅ Mediterranean Lamb Kebabs (Lamb + Mediterranean)
+- ✅ Thai Beef Lettuce Wraps (Beef + Thai)
+- ✅ Shrimp Fajita Bowls (Shrimp + Mexican)
+- ✅ Gluten-Free Meatloaf (Beef + American)
 
-1. **Japanese Chicken Teriyaki** (Chicken + Japanese)
-2. **Korean Beef Bowl** (Beef + Korean)
-3. **Mediterranean Lamb Kebabs** (Lamb + Mediterranean)
-
-### Short-term: Fill Missing Protein/Cuisine Gaps
+### Current Gaps: Fill Missing Protein/Cuisine Combinations
 
 #### Must Add (proteins with zero recipes)
 
@@ -79,27 +81,43 @@ These recipes exist in the database but lack equipment, ingredients, and instruc
 
 #### Must Add (cuisines with zero recipes)
 
-1. Any **American** recipe (0 recipes) ❌
-2. Any **Indian** recipe (0 recipes) ❌
-3. Any **Vietnamese** recipe (0 recipes) ❌
+1. Any **Indian** recipe (0 recipes) ❌
+2. Any **Vietnamese** recipe (0 recipes) ❌
 
 #### Strategic Recipes (cover multiple gaps)
 
+**Eggs recipes:**
 - Eggs + Indian: Shakshuka or Egg Curry
 - Eggs + American: Breakfast Scramble or Frittata
+- Eggs + Mexican: Huevos Rancheros
+- Eggs + Chinese: Egg Fried Rice
+
+**Pork recipes:**
 - Pork + Vietnamese: Vietnamese Pork Chops or Banh Mi Bowl
 - Pork + American: BBQ Pulled Pork or Pork Chops
+- Pork + Chinese: Twice-Cooked Pork
+- Pork + Mexican: Carnitas
+
+**Indian cuisine:**
+- Chicken + Indian: Butter Chicken or Tikka Masala
+- Lamb + Indian: Lamb Curry or Rogan Josh
+- Tofu + Indian: Palak Tofu or Tofu Curry
+
+**Vietnamese cuisine:**
+- Chicken + Vietnamese: Pho Ga or Lemongrass Chicken
+- Beef + Vietnamese: Pho or Shaking Beef
+- Pork + Vietnamese: Banh Mi Bowl or Pork Chops
 
 ---
 
 ## Next Steps
 
-1. **Priority 1:** Complete the 3 incomplete recipes (Teriyaki, Korean Bowl, Lamb Kebabs)
-2. **Priority 2:** Add at least one Eggs recipe and one Pork recipe
-3. **Priority 3:** Add American, Indian, and Vietnamese cuisine coverage
-4. Test all recipes in app
-5. Update this matrix
+1. **Priority 1:** Add at least one Eggs recipe and one Pork recipe
+2. **Priority 2:** Add Indian and Vietnamese cuisine coverage
+3. **Priority 3:** Expand coverage in underrepresented combinations
+4. Continue testing all recipes in app
+5. Update this matrix as recipes are added
 
 ---
 
-*Last Updated: 2026-02-18*
+*Last Updated: 2026-02-21*
