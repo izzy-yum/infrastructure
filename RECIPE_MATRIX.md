@@ -4,7 +4,7 @@ Track recipe coverage across all protein and cuisine combinations.
 
 **Goal:** At least one recipe in every cell
 
-**Status:** 15 of 80 cells filled (18.75% complete) | 15 recipes fully complete ✅
+**Status:** 16 of 80 cells filled (20% complete) | 16 recipes fully complete ✅
 
 ---
 
@@ -17,7 +17,7 @@ Track recipe coverage across all protein and cuisine combinations.
 | **Eggs** | | Egg Foo Yung ✅ | | | | | | | | |
 | **Lamb** | | | | | | | Mediterranean Lamb Kebabs ✅ | | | |
 | **Pork** | | | | | | | | | | Vietnamese Grilled Lemongrass Pork ✅ |
-| **Salmon** | | | | | | | Mediterranean Grilled Salmon ✅ | | | |
+| **Salmon** | Grilled Salmon with Honey and Lemon ✅ | | | | | | Mediterranean Grilled Salmon ✅ | | | |
 | **Shrimp** | | | | Shrimp Scampi ✅ | | | | Shrimp Fajita Bowls ✅ | Green Curry Shrimp ✅ | |
 | **Tofu** | | Tofu Stir Fry ✅ | | | | | | | | |
 
@@ -32,8 +32,8 @@ Track recipe coverage across all protein and cuisine combinations.
 
 **Overall Progress:**
 - Total combinations: 80 (8 proteins × 10 cuisines)
-- Recipes in database: 15 (18.75%)
-- Fully complete recipes: 15 ✅ (18.75%)
+- Recipes in database: 16 (20%)
+- Fully complete recipes: 16 ✅ (20%)
 - Incomplete recipes: 0 🎉
 
 **By Protein:**
@@ -42,12 +42,12 @@ Track recipe coverage across all protein and cuisine combinations.
 - Eggs: 1/10 cuisines (10%) — 1 complete ✅
 - Lamb: 1/10 cuisines (10%) — 1 complete ✅
 - Pork: 1/10 cuisines (10%) — 1 complete ✅
-- Salmon: 1/10 cuisines (10%) — 1 complete ✅
+- Salmon: 2/10 cuisines (20%) — 2 complete ✅
 - Shrimp: 3/10 cuisines (30%) — 3 complete ✅
 - Tofu: 1/10 cuisines (10%) — 1 complete ✅
 
 **By Cuisine:**
-- American: 1/8 proteins (12.5%) — 1 complete ✅
+- American: 2/8 proteins (25%) — 2 complete ✅
 - Chinese: 2/8 proteins (25%) — 2 complete ✅
 - Indian: 0/8 proteins (0%) ❌
 - Italian: 2/8 proteins (25%) — 2 complete ✅
@@ -67,6 +67,7 @@ Track recipe coverage across all protein and cuisine combinations.
 **Completed in this session:**
 - ✅ Egg Foo Yung (Eggs + Chinese) - **First Eggs recipe!**
 - ✅ Vietnamese Grilled Lemongrass Pork (Pork + Vietnamese) - **First Pork AND Vietnamese recipe!**
+- ✅ Grilled Salmon with Honey and Lemon (Salmon + American) - **Second Salmon recipe!**
 - ✅ Gluten-Free Meatloaf (Beef + American)
 - ✅ Thai Beef Lettuce Wraps (Beef + Thai)
 - ✅ Shrimp Fajita Bowls (Shrimp + Mexican)
