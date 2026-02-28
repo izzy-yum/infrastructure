@@ -1,0 +1,11 @@
+# Local configuration
+.claude/
+
+# Sensitive credentials
+twillio-info.md
+twilio-info.md
+*-credentials.md
+*-secrets.md
+
+# Backup files
+*.backup

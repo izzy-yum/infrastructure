@@ -10,33 +10,33 @@
 
 ### Step 1: Create Twilio Account
 
-- [ ] Go to https://www.twilio.com/try-twilio
-- [ ] Click **"Start for free"** or **"Sign up"**
-- [ ] Fill in registration form:
+- [X] Go to https://www.twilio.com/try-twilio
+- [X] Click **"Start for free"** or **"Sign up"**
+- [X] Fill in registration form:
   - [ ] First name
   - [ ] Last name
   - [ ] Email address
   - [ ] Password (strong password recommended)
-- [ ] Click **"Sign Up"**
-- [ ] Check your email and verify your email address
-- [ ] Complete phone verification (Twilio will call or text you)
-- [ ] Answer the onboarding questions (select your use case)
+- [X] Click **"Sign Up"**
+- [X] Check your email and verify your email address
+- [X] Complete phone verification (Twilio will call or text you)
+- [X] Answer the onboarding questions (select your use case)
 
 ### Step 2: Get a Trial Phone Number
 
-- [ ] After login, you'll see the Twilio Console
-- [ ] Look for "Get a Twilio phone number" prompt
-- [ ] Click **"Get a trial number"**
-- [ ] Review the suggested number (should be a US number like +1 555-123-4567)
-- [ ] Click **"Choose this number"** (or click "Search for a different number" if you want to pick)
-- [ ] Confirm the number is now in your account
+- [X] After login, you'll see the Twilio Console
+- [X] Look for "Get a Twilio phone number" prompt
+- [X] Click **"Get a trial number"**
+- [X] Review the suggested number (should be a US number like +1 555-123-4567)
+- [X] Click **"Choose this number"** (or click "Search for a different number" if you want to pick)
+- [X] Confirm the number is now in your account
 
 ### Step 3: Collect Twilio Credentials
 
 **Go to:** https://console.twilio.com/
 
-- [ ] Find the **Account Info** section on the dashboard
-- [ ] Copy and save the following (you'll need these later):
+- [X] Find the **Account Info** section on the dashboard
+- [X] Copy and save the following (you'll need these later):
 
 ```
 Account SID: AC________________________________
@@ -49,8 +49,8 @@ Twilio Phone Number: +1__________
 (Format: +15551234567)
 ```
 
-- [ ] Save these credentials in a secure note/password manager
-- [ ] **IMPORTANT:** Keep Auth Token secret - treat it like a password
+- [X] Save these credentials in a secure note/password manager
+- [X] **IMPORTANT:** Keep Auth Token secret - treat it like a password
 
 ### Step 4: Verify Your Test Phone Number
 
@@ -117,7 +117,7 @@ Thanks,
 The Izzy Yum Team
 ```
 
-- [ ] Click **"Save"** if you made changes
+- [X] Click **"Save"** if you made changes
 
 ### Step 3: Configure Site URLs
 
@@ -127,14 +127,14 @@ The Izzy Yum Team
   - [ ] `https://izzy-yum.com`
   - [ ] `https://izzy-yum.com/verify-email`
   - [ ] `http://localhost:9001` (for local development)
-- [ ] Click **"Save"**
+- [X] Click **"Save"**
 
 ### Step 4: Verify Email Settings
 
 - [ ] Go back to https://supabase.com/dashboard/project/oogpnrrsmpklafdrvvkg/auth/providers
 - [ ] Confirm **Email** provider shows as "Enabled" (green toggle)
 - [ ] Confirm **Email OTP** is checked
-- [ ] ✅ Email OTP is now configured
+- [X] ✅ Email OTP is now configured
 
 ---
 
@@ -153,7 +153,7 @@ The Izzy Yum Team
   - [ ] **Twilio Verify Service SID**: Leave blank
 
 - [ ] Click **"Save"**
-- [ ] Wait for "Settings saved successfully" confirmation
+- [X] Wait for "Settings saved successfully" confirmation
 
 ### Step 2: Enable Phone Provider
 
@@ -162,7 +162,7 @@ The Izzy Yum Team
 - [ ] Toggle **ON** (should turn green): "Enable Phone provider"
 - [ ] Under "Phone OTP" settings:
   - [ ] Check ✅ **"Enable Phone OTP"**
-- [ ] Click **"Save"** at the bottom
+- [X] Click **"Save"** at the bottom
 
 ### Step 3: Configure Phone Settings (Optional)
 
@@ -170,13 +170,13 @@ The Izzy Yum Team
   - [ ] **OTP Expiry**: Default is 60 seconds (can change to 60-300 seconds)
   - [ ] **OTP Length**: Default is 6 digits (recommended)
 - [ ] Leave defaults or adjust as needed
-- [ ] Click **"Save"** if you made changes
+- [X] Click **"Save"** if you made changes
 
 ### Step 4: Verify Phone Settings
 
-- [ ] Confirm **Phone** provider shows as "Enabled" (green toggle)
-- [ ] Confirm **Phone OTP** is checked
-- [ ] ✅ Phone OTP is now configured
+- [X] Confirm **Phone** provider shows as "Enabled" (green toggle)
+- [X] Confirm **Phone OTP** is checked
+- [X] ✅ Phone OTP is now configured
 
 ---
 
