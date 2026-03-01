@@ -298,3 +298,35 @@ Once all checkboxes above are complete:
 
 *Document created: 2026-02-27*
 *Project: Izzy Yum - Gluten-Free Recipe System*
+
+---
+
+## 🚨 Update: Phone Verification Temporarily Disabled
+
+**Date:** March 1, 2026
+
+**Reason:** Twilio requires campaign registration and approval for A2P 10DLC messaging, which can take up to 3 weeks.
+
+**Current Implementation:**
+- ✅ Email OTP verification: **Active** (6-digit code)
+- ❌ Phone OTP verification: **Disabled** (temporarily)
+- ✅ Phone number collection: **Active** (saved for future use)
+
+**Registration Flow:**
+1. User enters email, password, and phone number
+2. Email OTP sent (6-digit code via email)
+3. User verifies email
+4. Phone number saved to user metadata (unverified)
+5. Registration complete → user logged in
+
+**To Re-enable Phone Verification:**
+1. Complete Twilio A2P 10DLC campaign registration
+2. Wait for approval (up to 3 weeks)
+3. Uncomment phone OTP code in `src/app/register/page.tsx`
+4. Redeploy to production
+
+**Impact:**
+- Users can register with email verification only
+- Phone numbers are collected and stored for future shopping list features
+- No SMS costs during this period ($0 instead of $0.05 per registration)
+
