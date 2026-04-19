@@ -1,6 +1,11 @@
 # Phase 1: Authentication Setup Checklist
 ## Twilio SMS & Supabase OTP Configuration
 
+> [!WARNING]
+> **SUPERSEDED — 2026-04-19.** This checklist was for the Twilio/SMS-era auth setup, which has been retired. The current design is in [`ACCOUNT_AND_PAIRING.md`](ACCOUNT_AND_PAIRING.md) — email-verified, passwordless (Apple / Google / email magic link), with QR-based device pairing. A new setup checklist will be written once the new design is implementation-ready.
+>
+> Preserved for history. **Do not follow the steps below.**
+
 **Estimated Time:** 20-30 minutes
 **Cost:** $0 (using free tiers and trial credits)
 

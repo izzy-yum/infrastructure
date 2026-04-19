@@ -1,6 +1,11 @@
 # Authentication Quick Reference
 ## Email & Phone OTP - Visual Flow
 
+> [!WARNING]
+> **SUPERSEDED — 2026-04-19.** This document describes the Twilio/SMS-era authentication flow that has been retired. The current design is in [`ACCOUNT_AND_PAIRING.md`](ACCOUNT_AND_PAIRING.md) — email-verified, passwordless (Apple / Google / email magic link), with QR-based device pairing for iOS and Android.
+>
+> Preserved for history. **Do not implement from this document.**
+
 ---
 
 ## 🎯 User Journey (2-3 minutes)
